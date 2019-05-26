@@ -1,15 +1,12 @@
-class Equipe:
-    nom = ""
-    stade = ""
-    entraineur = ""
-    nb_victoire = 0
-    nb_nul = 0
-    nb_defaite = 0
-    points = 0
-    buts_pour = 0
-    buts_contre = 0
-    ratio = 0
-    nb_carton_jaune = 0
-    nb_carton_rouge = 0
+import Team
+import Day
 
-    print("Partie finale: \n","Good: ")
+Lyon = Team.Team("Lyon", "Parc OL", "Sylvinho")
+Paris = Team.Team=("Paris Saint-Germain", "Parc des Princes", "Tuchel")
+
+Lyon.__repr__()
+Paris.__repr__()
+
+Day1 = Day.Day(1)
+
+#Day1.match(Lyon.match, Paris.match, [5,0])

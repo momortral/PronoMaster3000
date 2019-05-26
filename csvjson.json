@@ -1,0 +1,338 @@
+[
+  {
+    "Journée": "J37",
+    "Domicile": "Bordeaux",
+    "Resultat Dom": 0,
+    "Resultat Ext": 1,
+    "Exterieur": "Reims"
+  },
+  {
+    "Journée": "J37",
+    "Domicile": "Lyon",
+    "Resultat Dom": 4,
+    "Resultat Ext": 0,
+    "Exterieur": "Caen"
+  },
+  {
+    "Journée": "J37",
+    "Domicile": "Monaco",
+    "Resultat Dom": 2,
+    "Resultat Ext": 0,
+    "Exterieur": "Amiens"
+  },
+  {
+    "Journée": "J37",
+    "Domicile": "Montpellier",
+    "Resultat Dom": 1,
+    "Resultat Ext": 1,
+    "Exterieur": "Nantes"
+  },
+  {
+    "Journée": "J37",
+    "Domicile": "PSG",
+    "Resultat Dom": 4,
+    "Resultat Ext": 0,
+    "Exterieur": "Dijon"
+  },
+  {
+    "Journée": "J37",
+    "Domicile": "Saint-Etienne",
+    "Resultat Dom": 3,
+    "Resultat Ext": 0,
+    "Exterieur": "Nice"
+  },
+  {
+    "Journée": "J37",
+    "Domicile": "Strasbourg",
+    "Resultat Dom": 0,
+    "Resultat Ext": 2,
+    "Exterieur": "Rennes"
+  },
+  {
+    "Journée": "J37",
+    "Domicile": "Toulouse",
+    "Resultat Dom": 2,
+    "Resultat Ext": 5,
+    "Exterieur": "Marseille"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Marseille",
+    "Resultat Dom": 0,
+    "Resultat Ext": 3,
+    "Exterieur": "Lyon"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Lille",
+    "Resultat Dom": 1,
+    "Resultat Ext": 0,
+    "Exterieur": "Bordeaux"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Rennes",
+    "Resultat Dom": 1,
+    "Resultat Ext": 1,
+    "Exterieur": "Guingamp"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Amiens",
+    "Resultat Dom": 0,
+    "Resultat Ext": 0,
+    "Exterieur": "Toulouse"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Caen",
+    "Resultat Dom": 3,
+    "Resultat Ext": 2,
+    "Exterieur": "Reims"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Dijon",
+    "Resultat Dom": 2,
+    "Resultat Ext": 1,
+    "Exterieur": "Strasbourg"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Nice",
+    "Resultat Dom": 1,
+    "Resultat Ext": 1,
+    "Exterieur": "Nantes"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Nimes",
+    "Resultat Dom": 1,
+    "Resultat Ext": 0,
+    "Exterieur": "Monaco"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Angers",
+    "Resultat Dom": 1,
+    "Resultat Ext": 2,
+    "Exterieur": "PSG"
+  },
+  {
+    "Journée": "J36",
+    "Domicile": "Saint-Etienne",
+    "Resultat Dom": 0,
+    "Resultat Ext": 1,
+    "Exterieur": "Montpellier"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "Lyon",
+    "Resultat Dom": 2,
+    "Resultat Ext": 2,
+    "Exterieur": "Lille"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "Monaco",
+    "Resultat Dom": 2,
+    "Resultat Ext": 3,
+    "Exterieur": "Saint-Etienne"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "Montpellier",
+    "Resultat Dom": 1,
+    "Resultat Ext": 1,
+    "Exterieur": "Amiens"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "Nantes",
+    "Resultat Dom": 3,
+    "Resultat Ext": 0,
+    "Exterieur": "Dijon"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "Toulouse",
+    "Resultat Dom": 2,
+    "Resultat Ext": 2,
+    "Exterieur": "Rennes"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "Bordeaux",
+    "Resultat Dom": 0,
+    "Resultat Ext": 1,
+    "Exterieur": "Angers"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "Guingamp",
+    "Resultat Dom": 0,
+    "Resultat Ext": 0,
+    "Exterieur": "Caen"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "Reims",
+    "Resultat Dom": 0,
+    "Resultat Ext": 3,
+    "Exterieur": "Nimes"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "PSG",
+    "Resultat Dom": 1,
+    "Resultat Ext": 1,
+    "Exterieur": "Nice"
+  },
+  {
+    "Journée": "J35",
+    "Domicile": "Strasbourg",
+    "Resultat Dom": 1,
+    "Resultat Ext": 1,
+    "Exterieur": "Marseille"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Rennes",
+    "Resultat Dom": 2,
+    "Resultat Ext": 2,
+    "Exterieur": "Monaco"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Montpellier",
+    "Resultat Dom": 3,
+    "Resultat Ext": 2,
+    "Exterieur": "PSG"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Marseille",
+    "Resultat Dom": 1,
+    "Resultat Ext": 2,
+    "Exterieur": "Nantes"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Saint-Etienne",
+    "Resultat Dom": 2,
+    "Resultat Ext": 0,
+    "Exterieur": "Toulouse"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Amiens",
+    "Resultat Dom": 0,
+    "Resultat Ext": 0,
+    "Exterieur": "Strasbourg"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Angers",
+    "Resultat Dom": 1,
+    "Resultat Ext": 1,
+    "Exterieur": "Reims"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Caen",
+    "Resultat Dom": 1,
+    "Resultat Ext": 0,
+    "Exterieur": "Dijon"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Lille",
+    "Resultat Dom": 5,
+    "Resultat Ext": 0,
+    "Exterieur": "Nimes"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Nice",
+    "Resultat Dom": 3,
+    "Resultat Ext": 0,
+    "Exterieur": "Guingamp"
+  },
+  {
+    "Journée": "J34",
+    "Domicile": "Bordeaux",
+    "Resultat Dom": 2,
+    "Resultat Ext": 3,
+    "Exterieur": "Lyon"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "PSG",
+    "Resultat Dom": 3,
+    "Resultat Ext": 1,
+    "Exterieur": "Monaco"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "Reims",
+    "Resultat Dom": 0,
+    "Resultat Ext": 2,
+    "Exterieur": "Saint-Etienne"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "Nantes",
+    "Resultat Dom": 3,
+    "Resultat Ext": 2,
+    "Exterieur": "Amiens"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "Toulouse",
+    "Resultat Dom": 0,
+    "Resultat Ext": 0,
+    "Exterieur": "Lille"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "Nice",
+    "Resultat Dom": 0,
+    "Resultat Ext": 1,
+    "Exterieur": "Caen"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "Nimes",
+    "Resultat Dom": 2,
+    "Resultat Ext": 1,
+    "Exterieur": "Bordeaux"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "Strasbourg",
+    "Resultat Dom": 1,
+    "Resultat Ext": 3,
+    "Exterieur": "Montpellier"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "Guingamp",
+    "Resultat Dom": 1,
+    "Resultat Ext": 3,
+    "Exterieur": "Marseille"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "Lyon",
+    "Resultat Dom": 2,
+    "Resultat Ext": 1,
+    "Exterieur": "Angers"
+  },
+  {
+    "Journée": "J33",
+    "Domicile": "Dijon",
+    "Resultat Dom": 3,
+    "Resultat Ext": 2,
+    "Exterieur": "Rennes"
+  }
+]
